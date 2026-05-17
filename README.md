@@ -34,7 +34,7 @@ For collaborators and guest authors contributing to the Journal of the SAAM Lab:
 3. **Reproducibility:** A paper will not be published unless the accompanying code compiles seamlessly and the data structure accurately maps the assumed $t$-distributions without unwarranted smoothing.
 
 ## 📬 Contact & Editorial Board
-**Dr. Oscar A. Linares** *Founder & Editor-in-Chief*
+**Dr. Oscar Linares** *Founder & Editor-in-Chief*
 
 **Ričards Bulavs** *Associate Editor*
 
