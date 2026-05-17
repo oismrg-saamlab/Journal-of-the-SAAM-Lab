@@ -22,7 +22,7 @@ Research published in this journal relies on the following mathematical and comp
 
 This repository is organized to ensure absolute reproducibility of all published findings:
 
-* `/issues` — Contains the finalized, peer-reviewed journal issues in PDF format, typeset in Krantz/Elsevier LaTeX styles.
+* `/issues` — Contains the finalized, peer-reviewed journal issues in PDF format, typeset in JSAAML LaTeX styles.
 * `/manuscripts` — LaTeX source files, TikZ diagrams, and BibTeX bibliographies for ongoing and published papers.
 * `/data` — Anonymized or public empirical datasets (e.g., ES hourly session data) used in the published analyses.
 * `/src` — The exact `R` and `Rcpp` scripts required to reproduce the HMM decoding, feature engineering, and NBC classifications found in the papers. Includes integrations with the `KRONX` and `kronxNBC` packages.
