@@ -36,7 +36,7 @@ For collaborators and guest authors contributing to the Journal of the SAAM Lab:
 ## 📬 Contact & Editorial Board
 **Dr. Oscar Linares** *Founder & Editor-in-Chief*
 
-**Ričards Bulavs** *Associate Editor*
+**Ričards Bulavs** *Co-Founder & Associate Editor*
 
 For inquiries regarding the application of COR strategies in institutional risk management, or to discuss collaborative research, please open an issue in this repository or contact the lab directly.
 
