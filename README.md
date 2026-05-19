@@ -2,7 +2,7 @@
 
 **Dedicated to Empirical Market Research via the Clock of Regimes (COR) Model**
 
-Welcome to the official repository for *The Journal of the SAAM Lab*. This journal serves as the primary publication and archival platform for rigorous, quantitative research investigating non-stationary financial markets. 
+Welcome to the official repository for *The Journal of the SAAM Lab*. This journal serves as the primary publication and archival platform for rigorous, quantitative research investigating nonlinear financial markets. 
 
 Our core methodology replaces traditional, static market assumptions with the **Clock of Regimes (COR) analysis**, utilizing Hidden Markov Models (HMMs), heavy-tailed distributions, and survival-analytic frameworks to map the true microscopic and macroscopic states of the market.
 
