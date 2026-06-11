@@ -4,9 +4,9 @@
 
 Welcome to the official repository for *The Journal of the SAAM Lab*. This journal serves as the primary publication and archival platform for rigorous, quantitative research investigating nonlinear financial markets utilizing the Clock of Regimes Framework. *The Journal of the SAAM Lab* is a niche field journal specializing in matrix-analytic methods and specific sub-fields of quantitative and mathematical finance.
 
-*The Journal of the SAAM Lab* publishes **4 volumes (Quarterly)** which include **6 to 8 papers** per regular volume. The total annual output is 24 to 32 peer-reviewed papers.** 
+*The Journal of the SAAM Lab* publishes **4 volumes (Quarterly)** which include **6 to 8 papers** per regular volume. The total annual output is 24-32 peer-reviewed papers.** 
 
-Our core methodology replaces traditional, static market assumptions with the **Clock of Regimes (COR) analysis**, utilizing Hidden Markov Models (HMMs), heavy-tailed distributions, and survival-analytic frameworks to map the true microscopic and macroscopic states of the market.
+The core methodology of the Clock of Regimes framework replaces traditional, static market assumptions with the **Clock of Regimes (COR) analysis**, which utilizes Hidden Markov Models (HMMs), heavy-tailed distributions, and survival-analytic frameworks to map the market's true microscopic and macroscopic states.
 
 ## 🎯 Mission Statement
 Traditional Gaussian models fundamentally misprice risk by assuming market continuity and smoothing away the heavy tails of crisis events. *The Journal of the SAAM Lab* operates on the principles of the Incerto—embracing optionality, asymmetry, and empirical reality. 
