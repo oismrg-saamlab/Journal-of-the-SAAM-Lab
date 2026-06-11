@@ -40,4 +40,4 @@ For collaborators and guest authors contributing to the Journal of the SAAM Lab:
 For inquiries regarding the application of COR strategies in institutional risk management, or to discuss collaborative research, please open an issue in this repository or contact the lab directly.
 
 ---
-*Located in Rīga, Latvia --- Building robust quantitative architectures for asymmetric markets.*
+*Located in Rīga, Latvia --- Science serving the community...Building robust quantitative architectures for asymmetric markets.*
